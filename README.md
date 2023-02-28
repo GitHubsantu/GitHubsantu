@@ -33,5 +33,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=GitHubsantu&theme=highcontrast" align="center">
 </p>
 
-<a href="https://www.buymeacoffee.com/gitsantu"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gitsantu&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/gitsantu"><img align='center' src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gitsantu&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
