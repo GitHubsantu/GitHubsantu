@@ -33,14 +33,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=GitHubsantu&theme=highcontrast" align="center">
 </p>
 
-<summary>Donate Me</summary>
-<p align="center">
-  <a href="https://upayi.me/mahatasantu@ybl">
-    <img width="200" src="https://telegra.ph/file/3c81afe3eaa4d60af23f2.png">
-  </a>
-</p>
-<br>
-<p align="center">
-<a href="https://upayi.me/mahatasantu@ybl" target="_blank"><img width="200" src="https://img.shields.io/badge/Donate%20Me-UPI-blue?logo=google-pay&style=for-the-badge" alt="Donations Badge"></a>
-</p>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="gitsantu" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
