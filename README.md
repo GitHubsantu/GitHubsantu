@@ -29,6 +29,10 @@
 <img alt="php" src="https://img.shields.io/badge/php-777bb4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
+## Code Wars
+<p align='center'>
+<img alt="codewar" src="https://www.codewars.com/users/codeSantu/badges/large"/>
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GitHubsantu&theme=highcontrast" align="center">
