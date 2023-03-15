@@ -29,7 +29,7 @@
 <img alt="php" src="https://img.shields.io/badge/php-777bb4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="Javascript" src="https://img.shields.io/badge/Javascript-f0db4f.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
 <img alt="ReactJs" src="https://img.shields.io/badge/reactjs-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-<img alt="VisualStudio" src="https://img.shields.io/badge/visual%20studio-0078d7.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img alt="VisualStudio" src="https://img.shields.io/badge/visual%20studio%20code-0078d7.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ## Code Wars
