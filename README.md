@@ -27,6 +27,9 @@
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="php" src="https://img.shields.io/badge/php-777bb4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Javascript" src="https://img.shields.io/badge/Javascript-f0db4f.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
+<img alt="ReactJs" src="https://img.shields.io/badge/reactjs-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+<img alt="VisualStudio" src="https://img.shields.io/badge/visual%20studio-0078d7.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ## Code Wars
