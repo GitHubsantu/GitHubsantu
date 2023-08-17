@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GitHubsantu&show_icons=true&theme=highcontrast" align="center">
+![Santu's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHubsantu&show_icons=true&theme=highcontrast)
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubsantu&layout=compact&theme=highcontrast" align="center">
