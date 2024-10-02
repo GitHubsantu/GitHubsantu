@@ -5,12 +5,12 @@
 
 # My Social Profiles
 <p align="center">
-<a href="https://www.instagram/shahsad_klr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/GitCode𝕏-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.shahsad" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/GitCode𝕏-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="http://snapchat/hahsad_klr" target="_blank"><img alt="Snapchat" src="https://img.shields.io/badge/GitCode𝕏-a%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/></a>
+<a href="https://www.instagram" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/GitCode𝕏-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://x.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/GitCode𝕏-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="http://snapchat.com" target="_blank"><img alt="Snapchat" src="https://img.shields.io/badge/GitCode𝕏-a%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/></a>
 <a href="https://telegram.dog/GitCodex" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/GitCode𝕏-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.faceboo/shahsad.kl/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/GitCode𝕏-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.reddituser/Shahsadkolathur/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/GitCode𝕏-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="https://www.facebook.com/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/GitCode𝕏-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.reddituser.com/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/GitCode𝕏-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 </p>
 
 ## Tools and Languages I Love
