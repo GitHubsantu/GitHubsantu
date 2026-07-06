@@ -1,6 +1,8 @@
 ## 👋 Hi, I’m Santu, Welcome to my GitHub Profile
-- **📚 BCA Student**
-- **🌱 Exploring and Developing Telegram Bots**
+- 📚 Pursuing a **BCA in Cyber Security**
+- 💻 Already built across **Web, App, and other development** projects
+- 🌱 Now diving deep into **Ethical Hacking, Blockchain, Cloud Computing & Cyber Security**
+- 💬 Ask me about **Web/App Dev, Telegram Bots, and Cyber Security**
 <!-- **💻 Developer in [GitCode𝕏](https://GitHub.com/GitHubsantu)**  --!>
 
 # My Social Profiles
